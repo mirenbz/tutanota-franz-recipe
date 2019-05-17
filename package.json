@@ -5,7 +5,7 @@
   "description": "Tutanota",
   "main": "index.js",
   "author": "Miren Berasategi <mail@miren.be>",
-  "repository": "",
+  "repository": "https://github.com/mberasategi/tutanota-franz-recipe",
   "license": "MIT",
   "config": {
     "serviceURL": "https://mail.tutanota.com/login",
