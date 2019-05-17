@@ -1,0 +1,25 @@
+{
+  "id": "tutanota",
+  "name": "Tutanota",
+  "version": "0.1",
+  "description": "Tutanota",
+  "main": "index.js",
+  "author": "Miren Berasategi <mail@miren.be>",
+  "repository": "",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.tutanota.com/login",
+    "serviceName": "Tutanota",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
